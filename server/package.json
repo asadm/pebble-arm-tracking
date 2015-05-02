@@ -1,0 +1,15 @@
+{
+  "name": "pebble_arm",
+  "version": "0.0.0",
+  "description": "Arm Tracking with Pebble",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asad Memon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1",
+    "ws": "^0.4.32"
+  }
+}
